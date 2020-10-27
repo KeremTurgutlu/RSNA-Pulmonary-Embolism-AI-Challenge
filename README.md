@@ -80,6 +80,11 @@ BLUE channel / MEDIASTINAL window / level=40, width=400
 
 **13th of 799 teams**
 
+[Check Leaderboard (LB) here](https://www.kaggle.com/c/rsna-str-pulmonary-embolism-detection/leaderboard)
+
+- Public LB (650 unseen studies): 0.161
+- Private LB (1517 unseen studies): 0.165
+
 <img src="images/private_lb.png" align="center" height=300 witdh=300 />
 
 <br>
